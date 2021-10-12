@@ -4,17 +4,17 @@
 
 ## Installation
 
-```powershell
-npm i add-listener
+```bash
+npm i @julman-dev/add-listener
 ```
 
 And start hacking !
 
 ```javascript
 // ES5
-const al = require('add-listener');
+const al = require('@julman-dev/add-listener');
 // ES6
-import * as al from 'add-listener';
+import * as al from '@julman-dev/add-listener';
 
 al(window, function () {
     this.alert('Clicked !');
