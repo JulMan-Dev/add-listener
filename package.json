@@ -1,0 +1,26 @@
+{
+  "name": "add-listener",
+  "version": "1.0.0",
+  "description": "Unspotable Event Listener",
+  "types": "types/index.d.ts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulMan-Dev/add-listener.git"
+  },
+  "keywords": [
+    "addeventlistener",
+    "event",
+    "listener",
+    "window"
+  ],
+  "author": "JulMan-Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulMan-Dev/add-listener/issues"
+  },
+  "homepage": "https://github.com/JulMan-Dev/add-listener#readme"
+}
