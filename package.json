@@ -1,11 +1,14 @@
 {
-  "name": "add-listener",
+  "name": "@JulMan-Dev/add-listener",
   "version": "1.0.0",
   "description": "Unspotable Event Listener",
   "types": "types/index.d.ts",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
+  },
+  "publishConfig": {
+    "@JulMan-Dev:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
